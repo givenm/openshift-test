@@ -61,7 +61,7 @@
     <build>
         <resources> <!--This allows the properties files and xml files to be copied into the jar file-->
             <resource>
-                <directory>src/main/java</directory>
+                <directory>src/main/java/resources</directory>
                 <filtering>true</filtering>
             </resource>
         </resources>
