@@ -95,8 +95,8 @@
         <!-- Bootstrap core JavaScript
         ================================================== -->
         <!-- Placed at the end of the document so the pages load faster -->
-        <script src="<c:url value="/resources/js/jquery-1.10.2.min.js"/>"></script>
-        <script src="<c:url value="/resources/bootstrap/js/bootstrap.min.js"/>"></script>
+        <script src="<c:url value="/addonss/js/jquery-1.10.2.min.js"/>"></script>
+        <script src="<c:url value="/addonss/bootstrap/js/bootstrap.min.js"/>"></script>
         <script type="text/javascript">
             $(document).ready(function() {
                 $(".search-user").click(function() {
